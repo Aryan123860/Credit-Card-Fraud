@@ -98,10 +98,6 @@ pip install numpy pandas matplotlib scipy xgboost
 3. Open the Jupyter notebook `Aryan_bhardwaj_credit_card_fraud.ipynb`.
 4. Run the notebook cells sequentially.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/dalpozz/creditcardfraud) from Kaggle.
